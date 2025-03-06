@@ -1,0 +1,2 @@
+Module :A Module is a container for multiple resources that are used together
+Resource : resource use something contained within a module
